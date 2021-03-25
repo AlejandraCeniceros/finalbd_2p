@@ -12,6 +12,7 @@
   </head>
   <body>
     <div class="container">
+    <h1 class="bg-primary text-white text-center mb-3">CRUD con Laravel EJ. PARCIAL</h1>
     
     @yield('content')
 
